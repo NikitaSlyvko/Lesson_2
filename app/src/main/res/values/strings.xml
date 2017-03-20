@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson 2</string>
+    <string name="clicl_vie_default">My second application</string>
+    <string name="button_1">button 1</string>
+    <string name="button_2">button 2</string>
+    <string name="button_3">button 3</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="button_submit">Submit</string>
+</resources>
